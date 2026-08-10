@@ -6,6 +6,7 @@ Here all my solution which are practice on leetcode
 ## Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Aadish36/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/Aadish36/leetcode-solution/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -14,6 +15,7 @@ Here all my solution which are practice on leetcode
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Aadish36/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/Aadish36/leetcode-solution/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -35,4 +37,16 @@ Here all my solution which are practice on leetcode
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Aadish36/leetcode-solution/tree/master/0912-sort-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Aadish36/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Aadish36/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Aadish36/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
