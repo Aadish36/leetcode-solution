@@ -38,12 +38,14 @@ Here all my solution which are practice on leetcode
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Aadish36/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Aadish36/leetcode-solution/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Aadish36/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadish36/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Aadish36/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,4 +56,12 @@ Here all my solution which are practice on leetcode
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Aadish36/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadish36/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Aadish36/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Aadish36/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
