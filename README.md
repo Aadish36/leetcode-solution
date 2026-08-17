@@ -7,6 +7,7 @@ Here all my solution which are practice on leetcode
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aadish36/leetcode-solution/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Aadish36/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Aadish36/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadish36/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0912-sort-an-array](https://github.com/Aadish36/leetcode-solution/tree/master/0912-sort-an-array) |
@@ -52,6 +53,7 @@ Here all my solution which are practice on leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Aadish36/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Aadish36/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadish36/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
