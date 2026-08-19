@@ -7,6 +7,7 @@ Here all my solution which are practice on leetcode
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadish36/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Aadish36/leetcode-solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Aadish36/leetcode-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aadish36/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Aadish36/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
@@ -78,6 +79,7 @@ Here all my solution which are practice on leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Aadish36/leetcode-solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Aadish36/leetcode-solution/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
