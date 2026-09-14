@@ -15,6 +15,7 @@ Here all my solution which are practice on leetcode
 | [0485-max-consecutive-ones](https://github.com/Aadish36/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Aadish36/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Aadish36/leetcode-solution/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Aadish36/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -26,6 +27,7 @@ Here all my solution which are practice on leetcode
 | [0349-intersection-of-two-arrays](https://github.com/Aadish36/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadish36/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0912-sort-an-array](https://github.com/Aadish36/leetcode-solution/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Aadish36/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -61,6 +63,7 @@ Here all my solution which are practice on leetcode
 | [0283-move-zeroes](https://github.com/Aadish36/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Aadish36/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadish36/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Aadish36/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
