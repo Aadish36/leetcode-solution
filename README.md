@@ -9,6 +9,7 @@ Here all my solution which are practice on leetcode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadish36/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aadish36/leetcode-solution/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadish36/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/Aadish36/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Aadish36/leetcode-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aadish36/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Aadish36/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
@@ -53,6 +54,7 @@ Here all my solution which are practice on leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Aadish36/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Aadish36/leetcode-solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aadish36/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadish36/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -99,4 +101,8 @@ Here all my solution which are practice on leetcode
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Aadish36/leetcode-solution/tree/master/0724-find-pivot-index) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Aadish36/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
