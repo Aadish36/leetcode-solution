@@ -18,6 +18,7 @@ Here all my solution which are practice on leetcode
 | [0724-find-pivot-index](https://github.com/Aadish36/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Aadish36/leetcode-solution/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadish36/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Aadish36/leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Here all my solution which are practice on leetcode
 | [0349-intersection-of-two-arrays](https://github.com/Aadish36/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadish36/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadish36/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Aadish36/leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,4 +107,8 @@ Here all my solution which are practice on leetcode
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Aadish36/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Aadish36/leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
