@@ -6,6 +6,7 @@ Here all my solution which are practice on leetcode
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Aadish36/leetcode-solution/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadish36/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aadish36/leetcode-solution/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadish36/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -64,6 +65,7 @@ Here all my solution which are practice on leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Aadish36/leetcode-solution/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Aadish36/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadish36/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Aadish36/leetcode-solution/tree/master/0283-move-zeroes) |
