@@ -20,6 +20,7 @@ Here all my solution which are practice on leetcode
 | [0912-sort-an-array](https://github.com/Aadish36/leetcode-solution/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadish36/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aadish36/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/Aadish36/leetcode-solution/tree/master/1672-richest-customer-wealth) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aadish36/leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -115,4 +116,8 @@ Here all my solution which are practice on leetcode
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aadish36/leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Aadish36/leetcode-solution/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
