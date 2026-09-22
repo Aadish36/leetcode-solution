@@ -7,6 +7,7 @@ Here all my solution which are practice on leetcode
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Aadish36/leetcode-solution/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Aadish36/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadish36/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aadish36/leetcode-solution/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadish36/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -78,6 +79,7 @@ Here all my solution which are practice on leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Aadish36/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadish36/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Aadish36/leetcode-solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aadish36/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
