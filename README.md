@@ -80,6 +80,7 @@ Here all my solution which are practice on leetcode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aadish36/leetcode-solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Aadish36/leetcode-solution/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadish36/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Aadish36/leetcode-solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aadish36/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
@@ -97,6 +98,7 @@ Here all my solution which are practice on leetcode
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Aadish36/leetcode-solution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Aadish36/leetcode-solution/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aadish36/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
@@ -124,4 +126,8 @@ Here all my solution which are practice on leetcode
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Aadish36/leetcode-solution/tree/master/1672-richest-customer-wealth) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Aadish36/leetcode-solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
