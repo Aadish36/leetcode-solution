@@ -17,6 +17,7 @@ Here all my solution which are practice on leetcode
 | [0349-intersection-of-two-arrays](https://github.com/Aadish36/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadish36/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Aadish36/leetcode-solution/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/Aadish36/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Aadish36/leetcode-solution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Aadish36/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aadish36/leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -121,6 +122,7 @@ Here all my solution which are practice on leetcode
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Aadish36/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Aadish36/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 ## Simulation
 |  |
 | ------- |
