@@ -95,6 +95,7 @@ Here all my solution which are practice on leetcode
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aadish36/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aadish36/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aadish36/leetcode-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Queue
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Here all my solution which are practice on leetcode
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Aadish36/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Aadish36/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aadish36/leetcode-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Simulation
 |  |
 | ------- |
