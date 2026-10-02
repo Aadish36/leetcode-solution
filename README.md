@@ -8,6 +8,7 @@ Here all my solution which are practice on leetcode
 | ------- |
 | [0031-next-permutation](https://github.com/Aadish36/leetcode-solution/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Aadish36/leetcode-solution/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Aadish36/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadish36/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aadish36/leetcode-solution/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadish36/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -128,10 +129,12 @@ Here all my solution which are practice on leetcode
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aadish36/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aadish36/leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aadish36/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Aadish36/leetcode-solution/tree/master/1672-richest-customer-wealth) |
 ## Newton's Method
 |  |
