@@ -27,6 +27,7 @@ Here all my solution which are practice on leetcode
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aadish36/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aadish36/leetcode-solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1672-richest-customer-wealth](https://github.com/Aadish36/leetcode-solution/tree/master/1672-richest-customer-wealth) |
+| [1695-maximum-erasure-value](https://github.com/Aadish36/leetcode-solution/tree/master/1695-maximum-erasure-value) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aadish36/leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -69,6 +70,7 @@ Here all my solution which are practice on leetcode
 | [0349-intersection-of-two-arrays](https://github.com/Aadish36/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadish36/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aadish36/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [1695-maximum-erasure-value](https://github.com/Aadish36/leetcode-solution/tree/master/1695-maximum-erasure-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +128,7 @@ Here all my solution which are practice on leetcode
 | [0219-contains-duplicate-ii](https://github.com/Aadish36/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Aadish36/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aadish36/leetcode-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/Aadish36/leetcode-solution/tree/master/1695-maximum-erasure-value) |
 ## Simulation
 |  |
 | ------- |
