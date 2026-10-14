@@ -39,6 +39,7 @@ Here all my solution which are practice on leetcode
 | [0268-missing-number](https://github.com/Aadish36/leetcode-solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aadish36/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadish36/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Aadish36/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/Aadish36/leetcode-solution/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadish36/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
@@ -70,6 +71,7 @@ Here all my solution which are practice on leetcode
 | [0349-intersection-of-two-arrays](https://github.com/Aadish36/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aadish36/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aadish36/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Aadish36/leetcode-solution/tree/master/0389-find-the-difference) |
 | [1695-maximum-erasure-value](https://github.com/Aadish36/leetcode-solution/tree/master/1695-maximum-erasure-value) |
 ## Two Pointers
 |  |
@@ -98,6 +100,7 @@ Here all my solution which are practice on leetcode
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aadish36/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aadish36/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Aadish36/leetcode-solution/tree/master/0389-find-the-difference) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aadish36/leetcode-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Queue
 |  |
@@ -114,6 +117,7 @@ Here all my solution which are practice on leetcode
 | ------- |
 | [0136-single-number](https://github.com/Aadish36/leetcode-solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Aadish36/leetcode-solution/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Aadish36/leetcode-solution/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
