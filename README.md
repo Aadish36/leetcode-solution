@@ -13,6 +13,7 @@ Here all my solution which are practice on leetcode
 | [0136-single-number](https://github.com/Aadish36/leetcode-solution/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadish36/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Aadish36/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/Aadish36/leetcode-solution/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Aadish36/leetcode-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aadish36/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Aadish36/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
